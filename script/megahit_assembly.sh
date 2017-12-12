@@ -1,0 +1,1 @@
+~/biosoft/megahit_v1.1.1_LINUX_CPUONLY_x86_64-bin/megahit --presets meta-sensitive -1 Feb2015-12m_1.fastq.gz,Feb2015-25m_1.fastq.gz,Jul2016-13m_1.fastq.gz -2 Feb2015-12m_2.fastq.gz,Feb2015-25m_2.fastq.gz,Jul2016-13m_2.fastq.gz -t 20 -o ~/Freshwater_Reservoirs/work/2_Assembly/megahit
