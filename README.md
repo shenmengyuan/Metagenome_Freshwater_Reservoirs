@@ -8,7 +8,18 @@
 
 **下面是我的学习笔记归档：**（长期更新）
 
+### 0 文献阅读
+
+笔记链接：https://mp.weixin.qq.com/s/-EL0sRmaghR1nGNylGKl9A
+
 ### 1 下载数据
 
 笔记链接：<https://mp.weixin.qq.com/s/6kZQm4c4YVGWCUujMOYSAw>
 
+### 2 拼接、基因预测
+
+笔记链接：http://mp.weixin.qq.com/s/6kZQm4c4YVGWCUujMOYSAw
+
+### 3 核糖体预测、基因注释
+
+笔记链接：http://mp.weixin.qq.com/s/PC7dSgIhzKZCVPgz1ds-4w
