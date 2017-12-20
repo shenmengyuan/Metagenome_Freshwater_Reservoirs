@@ -63,7 +63,7 @@ wget ftp://ftp-trace.ncbi.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR533/SRR
 
   ### mix assembly
   mkdir ~/Freshwater_Reservoirs/work/2_Assembly/idba_ud
-  $idba_ud --read Feb2015-25m.fa --read_level_2 Feb2015-12m.fa --		read_level_3 Jul2016-13m.fa --mink 70 --maxk 100 --step 10 -o 		$output/idba_ud
+  $idba_ud --read Feb2015-25m.fa --read_level_2 Feb2015-12m.fa --read_level_3 Jul2016-13m.fa --mink 70 --maxk 100 --step 10 -o 		$output/idba_ud
   ```
 
 - Filter < 10kb contig
