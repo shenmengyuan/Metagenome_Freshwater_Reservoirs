@@ -23,3 +23,7 @@
 ### 3 核糖体预测、基因注释
 
 笔记链接：http://mp.weixin.qq.com/s/PC7dSgIhzKZCVPgz1ds-4w
+
+### 4 微生物16sRNA数据库与序列聚类
+
+笔记链接：https://mp.weixin.qq.com/s/FL8OTXHP8ONbZjrZDgN41A
